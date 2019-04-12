@@ -15,4 +15,4 @@
 
 * #### [Vue学习笔记-双向绑定实现原理](<https://github.com/youstde/blog/issues/20>)
 * #### [使用cavas生成base64](https://github.com/youstde/blog/issues/13)
-
+* #### [webpack之于loader的编写](https://github.com/youstde/blog/issues/14)
