@@ -3,6 +3,7 @@
 > 记录前端路上的点滴，这个博客是基于[以前这个博客](https://youstde.github.io/)去迁移过来的,所以这里我按照以前博客的时间做了归档
 
 ### 2019
+* #### [微信小程序轮播图在安卓机上抖动问题](https://github.com/youstde/blog/issues/27)
 * #### [如何在本地调试微信jssdk](https://github.com/youstde/blog/issues/26)
 * #### [nginx本地代理问题](https://github.com/youstde/blog/issues/25)
 
