@@ -25,3 +25,4 @@
 * #### [使用cavas生成base64](https://github.com/youstde/blog/issues/13)
 
 * #### [webpack之于loader的编写](https://github.com/youstde/blog/issues/14)
+* #### [线性渐变的用处](https://github.com/youstde/blog/issues/6)
