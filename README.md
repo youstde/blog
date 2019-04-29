@@ -22,6 +22,7 @@
 ### :cherries: 2018
 
 * #### [Vue学习笔记-双向绑定实现原理](<https://github.com/youstde/blog/issues/20>)
+* #### [使用webpack的require.context实现路由“去中心化”管理](https://github.com/youstde/blog/issues/18)
 
 * #### [使用cavas生成base64](https://github.com/youstde/blog/issues/13)
 
