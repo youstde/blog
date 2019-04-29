@@ -2,7 +2,7 @@
 
 > 记录前端路上的点滴，这个博客是基于[以前这个博客](https://youstde.github.io/)去迁移过来的,所以这里我按照以前博客的时间做了归档
 
-### :pushpin:2019
+### :dart:2019
 * #### [查漏补缺-基础](https://github.com/youstde/blog/issues/29)
 
 * #### [express源码学习笔记](https://github.com/youstde/blog/issues/28)
@@ -19,7 +19,7 @@
 
 * #### [promise原理解析](https://github.com/youstde/blog/issues/2)
 
-### :pushpin:2018
+### :dart:2018
 
 * #### [Vue学习笔记-双向绑定实现原理](<https://github.com/youstde/blog/issues/20>)
 
