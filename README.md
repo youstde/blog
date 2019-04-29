@@ -3,7 +3,7 @@
 > 记录前端路上的点滴，这个博客是基于[以前这个博客](https://youstde.github.io/)去迁移过来的,所以这里我按照以前博客的时间做了归档
 
 ### 2019
-* #### [学习笔记-查漏补缺](https://github.com/youstde/blog/issues/29)
+* #### [查漏补缺-基础](https://github.com/youstde/blog/issues/29)
 
 * #### [express源码学习笔记](https://github.com/youstde/blog/issues/28)
 
