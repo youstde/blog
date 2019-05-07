@@ -28,3 +28,6 @@
 
 * #### [webpack之于loader的编写](https://github.com/youstde/blog/issues/14)
 * #### [线性渐变的用处](https://github.com/youstde/blog/issues/6)
+
+#### log
+【2019-5-7】更新`查漏补缺-基础`内容
