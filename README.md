@@ -4,6 +4,7 @@
 
 > 电影《教父》里面有一句话：花半秒钟就看透事物本质的人，和花一辈子都看不清事物本质的人，注定是截然不同的命运，因为价值观决定命运。
 
+![](http://ww1.sinaimg.cn/large/005QDhBjly1g2uuva1bilj30k00e53z4.jpg)
 
 -图片来自[知乎](https://www.zhihu.com/question/59172941/answer/350719388)
 
@@ -34,7 +35,7 @@
 * #### [webpack之于loader的编写](https://github.com/youstde/blog/issues/14)
 * #### [线性渐变的用处](https://github.com/youstde/blog/issues/6)
 
-![](http://ww1.sinaimg.cn/large/005QDhBjly1g2uuw2wkafj30k00dumy8.jpg)
+![](http://bwblog.oss-cn-hangzhou.aliyuncs.com/blogimg/v2-34199380b77be21d1fce7f8ba0129e52_hd.jpg)
 
 -图片来自[知乎](https://www.zhihu.com/question/59172941/answer/350719388)
 
