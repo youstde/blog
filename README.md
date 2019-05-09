@@ -4,7 +4,6 @@
 
 > 电影《教父》里面有一句话：花半秒钟就看透事物本质的人，和花一辈子都看不清事物本质的人，注定是截然不同的命运，因为价值观决定命运。
 
-![](http://ww1.sinaimg.cn/large/005QDhBjly1g2uuva1bilj30k00e53z4.jpg)
 
 -图片来自[知乎](https://www.zhihu.com/question/59172941/answer/350719388)
 
