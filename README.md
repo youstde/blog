@@ -23,7 +23,7 @@
 
 * #### [leetcode-日常被虐](<https://github.com/youstde/blog/issues/22>)
 
-* #### [promise原理解析](https://github.com/youstde/blog/issues/2)
+* #### [Promise原理之链式调用](https://github.com/youstde/blog/issues/2)
 
 ### :cherries: 2018
 
