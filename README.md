@@ -10,6 +10,8 @@
 
 ### :cherries: 2019
 
+* #### [日常杂记](https://github.com/youstde/blog/issues/36)
+
 * #### [学习知识总结](https://github.com/youstde/blog/issues/35)
 
 * #### [面试集锦](https://github.com/youstde/blog/issues/34)
