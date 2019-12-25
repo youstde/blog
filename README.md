@@ -8,6 +8,8 @@
 
 -图片来自[知乎](https://www.zhihu.com/question/59172941/answer/350719388)
 
+[在程序员的眼里，用户是这样使用他们开发的软件的](https://linux.cn/article-3382-1.html)
+
 ### :cherries: 2019
 
 * #### [日常杂记](https://github.com/youstde/blog/issues/36)
